@@ -1,3 +1,8 @@
-Dokumentation for the code in the repository: Automatic-evaluation-of-tumour-budding-in-immunohistochemically-stained-colorectal-carcinomas
+Documentation for the code in the repository: Automatic-evaluation-of-tumour-budding-in-immunohistochemically-stained-colorectal-carcinomas
+
+
+Please note that this tool is developed for scientific use only.
+There is a script for testing and running it (“testScript”). You just need to add your path to an installed version of MatConvNet (created by Vedaldi et al.; link: http://www.vlfeat.org/matconvnet/).
+A test image is included in the repository. The results are saves in a class with its own visualization function.
 
 
